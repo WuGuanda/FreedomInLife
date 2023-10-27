@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#gamble-btn {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
